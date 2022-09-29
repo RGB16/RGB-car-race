@@ -7,7 +7,7 @@
     justify-content:center;
 }
 #game{
-    height: 580px;
+    height: 700px;
     width: 390px;
     border: 1px solid black;
     /* margin: 1rem auto; */
@@ -35,7 +35,7 @@
     top:0 px;
     left:0px;
     text-align: center;
-    animation: move 1s linear  infinite ; 
+    animation: move 0.85s linear  infinite ; 
 
 }
 #bluecar img{
