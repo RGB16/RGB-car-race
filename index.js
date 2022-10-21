@@ -12,7 +12,7 @@ var arrow_click = document.getElementById("arrow_click");
 var counter=0;
 
 bluecar.addEventListener("animationiteration",function(){
-    var random =((Math.floor(Math.random()*3))*130)
+    var random =((Math.floor(Math.random()*5))*130)
     bluecar.style.left=random+"px";
     counter++
     changeIt(counter)
